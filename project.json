@@ -4,8 +4,12 @@
   "description": "It will process the Legal Contracts and extracts the required data using DL",
   "main": "Main.xaml",
   "dependencies": {
+    "UiPath.Excel.Activities": "[3.5.3]",
+    "UiPath.IntegrationService.Activities": "[1.26.0]",
     "UiPath.IntelligentOCR.Activities": "[7.2.0-preview]",
-    "UiPath.System.Activities": "[26.6.0]"
+    "UiPath.Mail.Activities": "[2.10.0-preview]",
+    "UiPath.System.Activities": "[26.6.0]",
+    "UiPath.WebAPI.Activities": "[2.5.0-preview]"
   },
   "webServices": [],
   "entitiesStores": [],
