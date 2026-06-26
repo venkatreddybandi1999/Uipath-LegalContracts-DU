@@ -1,0 +1,6 @@
+{
+  "Name": "Legal_Contracts_DU",
+  "ProjectType": "Process",
+  "Description": "It will process the Legal Contracts and extracts the required data using DL",
+  "MainFile": "Main.xaml"
+}
